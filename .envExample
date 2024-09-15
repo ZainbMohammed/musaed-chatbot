@@ -1,0 +1,5 @@
+OPEN_AI_KEY="sk-proj-****************************************"
+//Connection string of your Database Mongo Local
+MONGO_URI="mongodb://localhost:27017"
+MONGO_DB_NAME="Your Database Name"
+PORT=3500

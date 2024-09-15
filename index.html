@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+    <html>
+      <head>
+        <title>WhatsGPT</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+        <style>
+          body,h1 {font-family: "Raleway", sans-serif}
+          body, html {height: 100%}
+          .bgimg {
+            /* background-image: url('./images/bg-left.png'); */
+            background-color: #7c897b;
+            min-height: 100%;
+            background-position: center;
+            background-size: cover;
+          }
+        </style>
+      </head>
+      <body>
+        <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+          <div class="w3-display-topleft w3-padding-large w3-xlarge">
+            <a href="#"><img src="./images/logo.png" alt="" srcset=""></a>
+          </div>
+          <div class="w3-display-middle">
+            <h2 class="w3-jumbo w3-animate-top">ربط الرقم</h2>
+            <hr class="w3-border-grey" style="margin:auto;width:40%">
+            <form action="/submit" method="post">
+              <p class="w3-center">
+                <label><b>ادخل الرقم</b></label>
+                <input name="phoneNumber"  class="w3-input w3-border w3-margin-bottom" />
+  
+              </p>
+              <p class="w3-center">
+                <button type="submit">ارسال</button>
+              </p>
+            </form>
+          </div>
+          <div class="w3-display-bottomleft w3-padding-large">
+          </div>
+        </div>
+      </body>
+    </html>
