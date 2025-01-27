@@ -3,6 +3,9 @@
 
 customer service chatbot application that integrates with WhatsApp and uses OpenAI's GPT-3.5-turbo model to provide automated responses to customer inquiries. The application also uses MongoDB for storing and retrieving data, and Express.js for the web server.
 
+## Demo
+You can try the demo of this website here:
+[Demo Link](https://musaed-chatbot.netlify.app/)
 ## Features
 
 - Integrates with WhatsApp to handle customer messages
