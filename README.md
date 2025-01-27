@@ -5,7 +5,8 @@ customer service chatbot application that integrates with WhatsApp and uses Open
 
 ## Demo
 You can try the demo of this website here:
-[Demo Link](https://musaed-chatbot.netlify.app/)
+<a href="[http://your-demo-link.com](https://musaed-chatbot.netlify.app/)" target="_blank">Demo Link</a>
+
 ## Features
 
 - Integrates with WhatsApp to handle customer messages
